@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhaoling Chen"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : ""
 repository               : "czlll/czlll.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,8 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhaoling Chen"
+  name_cn          : "陈炤伶"
   avatar           : "images/profile.jpg"
-  bio              : "Nanjing University"
+  bio              : "Master student at Nanjing University"
   location         : "Nanjing, China"
   employer         :
   pubmed           : 
@@ -57,6 +58,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  cv_file          : "files/cv.pdf"
 
 
 # Reading Files

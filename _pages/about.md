@@ -17,21 +17,27 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# About me
 
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
-
+I am a 3rd-year master student at Nanjing University, supervised by Professor <a href='https://isetnju.github.io/guq/index.html'>Qing Gu (顾庆)</a> and Assistant Professor <a href='https://zhiweinju.github.io/'>Zhiwei Jiang (蒋智威)</a>. Before that, I got my B.S. degree from Central South University in 2022.  
+My current research interests primarily lie in Efficient NLP, which mainly includes:
+- Prompt Learning
+- Augmented LLMs/Agents (like RAG and tool-augmented LLMs)
+- Trustworthy LLM
+  
+I am looking for 2025 Fall PhD position. Feel free to reach out to me if you’re interested in my research.  
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-# 📖 Educations
-- *2022.06 - Present*
-  MS in Computer Technology, School of Computer Science, Nanjing University. 
-- *2018.09 - 2022.06*
-  BE in Software Engineering, School of computer Science and Engineering, Central South University. 
 
-# 📝 Publications 
+# 👩‍🎓 Educations
+- **2022.09 - Present**, Master student  
+  School of Computer Science, Nanjing University, Nanjing, China. 
+- **2018.09 - 2022.06**, Undergraduate Student  
+  School of computer Science and Engineering, Central South University, Changsha, China. 
+
+# 📑 Publications / Preprints 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -44,12 +50,24 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+(\* denotes equal contribution)
+- **\[arXiv\]** Multi-Prompting Decoder Helps Better Language Understanding  
+  Zifeng Cheng\*, **Zhaoling Chen\***, Zhiwei Jiang, Yafeng Yin, Shiping Ge, Yuliang Liu, and Qing Gu  
+  **\[[paper](https://arxiv.org/abs/2406.06279)\]**
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **\[arXiv\]** A Debiased Nearest Neighbors Framework for Multi-Label Text Classification  
+  Zifeng Cheng, Zhiwei Jiang, Yafeng Yin, **Zhaoling Chen**, Cong Wang, Shiping Ge, Qiguo Huang, and Qing Gu  
+  **\[[paper](https://arxiv.org/abs/2408.03202)\]**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **\[SIGIR 2023\]** Unsupervised Readability Assessment via Learning from Weak Readability Signals  
+  Yuliang Liu, Zhiwei Jiang, Yafeng Yin, Cong Wang, Sheng Chen, **Zhaoling Chen**, Qing Gu  
+  **\[[paper](https://dl.acm.org/doi/10.1145/3539618.3591695)\]**
+
+#  Honors and Awards
+- Nanjing University First-Class Scholarship (NJU, top 20%). 
+- Outstanding Graduates of Hunan Province (CSU, top 3%). 
+- Central South University Second-Class Scholarship (CSU, top 5%) 
+- Central South University First-Class Scholarship (CSU, top 3%) 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
