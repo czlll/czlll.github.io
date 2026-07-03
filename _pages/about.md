@@ -45,9 +45,8 @@ I am always open to potential collaborations or research opportunities. Feel fre
 </div> -->
 
 (\* denotes equal contribution)
-- **\[ICML 2026\]** EvoClaw: Evaluating AI Agents on Continuous
-Software Evolution   
-  Gangda Deng\*, **Zhaoling Chen\***, Zhongming Yu, Haoyang Fan, Yuhong Liu, Yuxin Yang, Dhruv Parikh, Rajgopal Kannan, Le Cong, Mengdi Wang, Qian Zhang, Viktor Prasanna, Xiangru Tang, Xingyao Wang
+- **\[ICML 2026\]** EvoClaw: Evaluating AI Agents on Continuous Software Evolution  
+  Gangda Deng\*, **Zhaoling Chen\***, Zhongming Yu, Haoyang Fan, Yuhong Liu, Yuxin Yang, Dhruv Parikh, Rajgopal Kannan, Le Cong, Mengdi Wang, Qian Zhang, Viktor Prasanna, Xiangru Tang, Xingyao Wang  
   **\[[paper](https://arxiv.org/pdf/2603.13428)\]** **\[[code](https://github.com/EvoClaw-Bench/EvoClaw)\]** **\[[leaderboard](https://evo-claw.com/)\]**
 
 - **\[ACL 2025\]** LocAgent: Graph-Guided LLM Agents for Code Localization  
