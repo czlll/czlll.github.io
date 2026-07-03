@@ -26,9 +26,8 @@ My research interests lie in Coding Agengts and NLP4SE. I am particularly passio
 I am always open to potential collaborations or research opportunities. Feel free to reach out to me at [zhaoling.chen@email.ucr.edu](zhaoling.chen@email.ucr.edu).
 
 
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🔥 News
+- *2026.05*: &nbsp;🎉🎉 EvoClaw has been accepted to ICML 2026. See you in Seoul!
 
 
 # 📑 Publications / Preprints 
@@ -46,6 +45,11 @@ I am always open to potential collaborations or research opportunities. Feel fre
 </div> -->
 
 (\* denotes equal contribution)
+- **\[ICML 2026\]** EvoClaw: Evaluating AI Agents on Continuous
+Software Evolution   
+  Gangda Deng\*, **Zhaoling Chen\***, Zhongming Yu, Haoyang Fan, Yuhong Liu, Yuxin Yang, Dhruv Parikh, Rajgopal Kannan, Le Cong, Mengdi Wang, Qian Zhang, Viktor Prasanna, Xiangru Tang, Xingyao Wang
+  **\[[paper](https://arxiv.org/pdf/2603.13428)\]** **\[[code](https://github.com/EvoClaw-Bench/EvoClaw)\]** **\[[leaderboard](https://evo-claw.com/)\]**
+
 - **\[ACL 2025\]** LocAgent: Graph-Guided LLM Agents for Code Localization  
   **Zhaoling Chen\***, Xiangru Tang\*, Gangda Deng\*,  Fang Wu, Jialong Wu, Zhiwei Jiang, Viktor Prasanna, Arman Cohan, Xingyao Wang  
   **\[[paper](https://aclanthology.org/2025.acl-long.426/)\]** **\[[code](https://github.com/gersteinlab/LocAgent)\]**
@@ -58,13 +62,13 @@ I am always open to potential collaborations or research opportunities. Feel fre
   Yuliang Liu, Junjie Lu, **Zhaoling Chen**, Chaofeng Qu, Jason Klein Liu, Chonghan Liu, Zefan Cai, Yunhui Xia, Li Zhao, Jiang Bian, Chuheng Zhang, Wei Shen, Zhouhan Lin  
   **\[[paper](https://arxiv.org/abs/2502.13943)\]**
 
-- **\[arXiv 2024\]** A Debiased Nearest Neighbors Framework for Multi-Label Text Classification  
+<!-- - **\[arXiv 2024\]** A Debiased Nearest Neighbors Framework for Multi-Label Text Classification  
   Zifeng Cheng, Zhiwei Jiang, Yafeng Yin, **Zhaoling Chen**, Cong Wang, Shiping Ge, Qiguo Huang, and Qing Gu  
-  **\[[paper](https://arxiv.org/abs/2408.03202)\]**
+  **\[[paper](https://arxiv.org/abs/2408.03202)\]** -->
 
-- **\[SIGIR 2023\]** Unsupervised Readability Assessment via Learning from Weak Readability Signals  
+<!-- - **\[SIGIR 2023\]** Unsupervised Readability Assessment via Learning from Weak Readability Signals  
   Yuliang Liu, Zhiwei Jiang, Yafeng Yin, Cong Wang, Sheng Chen, **Zhaoling Chen**, Qing Gu  
-  **\[[paper](https://dl.acm.org/doi/10.1145/3539618.3591695)\]**
+  **\[[paper](https://dl.acm.org/doi/10.1145/3539618.3591695)\]** -->
 
 <!-- - **\[NeurIPS 2024\]** AP-Adapter: Improving Generalization of Automatic Prompts on Unseen Text-to-Image Diffusion Models  
   Yuchen Fu, Zhiwei Jiang, Yuliang Liu, Cong Wang, Zexuan Deng, **Zhaoling Chen**, Qing Gu  
